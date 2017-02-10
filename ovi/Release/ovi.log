@@ -1,0 +1,6 @@
+﻿  main.cpp
+main.cpp(14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : see declaration of 'fopen'
+  Generating code
+  Finished generating code
+  ovi.vcxproj -> C:\Users\Ady\Documents\Visual Studio 2012\Projects\ovi\Release\ovi.exe
